@@ -15,5 +15,6 @@ I am a Software Engineer with 4 years of experience in understanding and analyzi
 - Training the new members in the team and getting them productive quickly.
 
 [Contact Me](https://about.me/lancy)
+-----------------------------------------
 Email: i.lancygoyal@gmail.com
 Mobile: +91-9041-040-600
