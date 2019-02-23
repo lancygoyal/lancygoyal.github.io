@@ -1,6 +1,6 @@
 ## Lancy Goyal
 
-Software Engineer | FullStack | Architect | React | ReactNative | Node | Spring Boot | Microservices | AWS | WooCommerce
+Assistant Manager in Spice Money(https://www.spicemoney.com/)
 
 ### About
 
