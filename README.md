@@ -1,6 +1,6 @@
 ## Lancy Goyal
 
-Assistant Manager in Spice Money(https://www.spicemoney.com/)
+Assistant Manager in [Spice Money](https://www.spicemoney.com/)
 
 ### About
 
