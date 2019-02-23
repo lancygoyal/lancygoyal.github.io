@@ -1,10 +1,10 @@
 ## Lancy Goyal
 
-Tech Lead at Igniva, Chandigarh, India
+Software Engineer | FullStack | Architect | React | ReactNative | Node | Spring Boot | Microservices | AWS | WooCommerce
 
 ### About
 
-I am a Software Engineer with 4 years of experience in understanding and analyzing the software engineering requirements and implementing them. and i have working experience in React.js, React Native, Redux, GraphQL, Node.js, Hapi.js, Socket.io, Express.js, Meteor.js and MongoDB. My interests range from Technology to Entrepreneurship. I am a technology driven person with immense interest in Software Engineering Problems, and Designs.
+I am a Software Engineer with 5 years of experience in understanding and analyzing the software engineering requirements and implementing them. and i have working experience in React.js, React Native, Redux, GraphQL, Node.js, Hapi.js, Socket.io, Express.js, Meteor.js, Vue.js, PWA, Spring Boot, MongoDB, AWS, Microservices, WooCommece, and Wordpress. My interests range from Technology to Entrepreneurship. I am a technology driven person with immense interest in Software Engineering Problems and Designs.
 
 ### Functional Skills
 
