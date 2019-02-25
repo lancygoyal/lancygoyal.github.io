@@ -1,0 +1,168 @@
+{
+  "main": {
+    "name": "Lancy Goyal",
+    "occupation": "FullStack Software Engineer | Consultant | Architect",
+    "description": "React.js | React Native | Node.js | Spring Boot | Microservices | AWS | WooCommerce | Vue.js | MongoDB",
+    "image": "profilepic.jpg",
+    "bio": "I am a Software Engineer with experience in understanding and analyzing the software engineering problems and implementing them. Technologies that I have used to develop apps are React.js, ReactNative, Redux, GraphQL, Node.js, Hapi.js, Socket.io, Express.js, Meteor.js, Vue.js, PWA, Spring Boot, MongoDB, AWS, Microservices, WooCommece, Wordpress, and Android. My interests range from Technology to Entrepreneurship. I am a technology driven person with an immense interest in Software Engineering Problems and Designs.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "i.lancygoyal@gmail.com",
+    "phone": "904-104-0600",
+    "address": {
+      "street": "#802/91",
+      "city": "Chandigarh",
+      "state": "Punjab",
+      "zip": "160071"
+    },
+    "website": "https://lancygoyal.github.io",
+    "resumedownload": "https://drive.google.com/open?id=1lw5xqOiXElSKqz5rPI4lVf56EHqEd7We",
+    "social": [
+      {
+        "name": "email",
+        "url": "tel:+919041040600",
+        "className": "fa fa-phone"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/lancygoyal",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "twitter",
+        "url": "https://www.twitter.com/LancyGoyal",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/lancygoyal",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "skype",
+        "url": "http://skype.com/lancy.goyal",
+        "className": "fa fa-skype"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Fullstack Software Engineer",
+    "education": [
+      {
+        "school": "Punjab Technical University",
+        "degree": "Bachelor of Technology",
+        "graduated": "June 2012",
+        "description": "Completed B.Tech. in Information Technology with First Division."
+      }
+    ],
+    "work": [
+      {
+        "company": "In-House",
+        "title": "Software Consultant",
+        "years": "July 2012 - Present",
+        "description": "Fullstack Software Engineer having working experience on React.js, React Native, Redux, GraphQL, Node.js, Hapi.js, Socket.io, Express.js, Meteor.js and Vue.js, Microservices, Spring Boot, AWS, WooCommerce."
+      },
+      {
+        "company": "Spice Money",
+        "title": "Assistant Manager",
+        "years": "July 2018 - Present",
+        "description": "Fullstack Software Engineer Working on Domestic Money Transfer and Railway Ticket Booking Platform, B2B Portal, Offical Website."
+      },
+      {
+        "company": "Igniva",
+        "title": "Lead Software Engineer",
+        "years": "Sept 2015 - Jun 2018",
+        "description": "Software Engineer having working experience on React.js, React Native, Redux, GraphQL, Node.js, Hapi.js, Socket.io, Express.js, Meteor.js and MongoDB."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Javascript",
+        "level": "90%"
+      },
+      {
+        "name": "React.js",
+        "level": "85%"
+      },
+      {
+        "name": "React Native",
+        "level": "85%"
+      },
+      {
+        "name": "Vue.js",
+        "level": "70%"
+      },
+      {
+        "name": "Node.js",
+        "level": "85%"
+      },
+      {
+        "name": "Meteor.js",
+        "level": "90%"
+      },
+      {
+        "name": "Hapi.js",
+        "level": "75%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "Spring Boot",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "TopperQ",
+        "category": "TopperQ are a simple and easy to use platform for teachers and students.",
+        "image": "topperq.png",
+        "url": "https://www.topperq.com/"
+      },
+      {
+        "title": "Spice Money",
+        "category": "Spice Money Official Website",
+        "image": "spice.png",
+        "url": "https://www.spicemoney.com/"
+      },
+      {
+        "title": "Pwayz",
+        "category": "Car Parking Application",
+        "image": "pwayz.png",
+        "url": "https://www.pwayz.co.uk/"
+      },
+      {
+        "title": "Todo App",
+        "category": "Simple Todo App using Vue and Firebase",
+        "image": "todo.png",
+        "url": "https://lancygoyal.github.io/Todo-Vue"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I've had pleasure of working with him. He has the rare combination of intellect and charisma that enables him to be one of the most effective leaders i have ever exposed to. My best wishes to him for continued success. (y)",
+        "user": "Manish Bhudraja",
+        "link": "https://www.linkedin.com/in/manish-budhiraja-a993484b"
+      },
+      {
+        "text": "Not a single day you will find when you haven't learn something new if you are working with him.",
+        "user": "Rishabh Sharma",
+        "link": "https://www.linkedin.com/in/rishabh-sharma-ab6aa935"
+      },
+      {
+        "text": "He is proactive, result oriented, responsible and well-experienced person. He is always ready to put all his energy and time to get the job done. His focus keeps everything moving smoothly, he makes sure all the deadlines are met, and makes sure that whatever project he is working on meets the highest standards. It is an honor for me to recommend and endorse him.",
+        "user": "Rahul Saini",
+        "link": "https://www.linkedin.com/in/rahul-saini-profile"
+      },
+      {
+        "text": "I highly recommend Lancy as he has excellent problem solving techniques. He is an excellent software architect. He knows very well how to manage his team as he is very good at management too. Overall he is an allrounder.",
+        "user": "Ankush Rishi",
+        "link": "https://www.linkedin.com/in/ankush-rishi-a3056675"
+      }
+    ]
+  }
+}
