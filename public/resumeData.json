@@ -1,0 +1,149 @@
+{
+  "main": {
+    "name":"Lancy Goyal",
+    "occupation":"Assistant Manager in Spice Money",
+    "description":"Software Engineer | FullStack | Architect | React | ReactNative | Node | Spring Boot | Microservices | AWS | WooCommerce",
+    "image":"profilepic.jpg",
+    "bio":"I am a Software Engineer with 5 years of experience in understanding and analyzing the software engineering requirements and implementing them. and i have working experience in React.js, React Native, Redux, GraphQL, Node.js, Hapi.js, Socket.io, Express.js, Meteor.js, Vue.js, PWA, Spring Boot, MongoDB, AWS, Microservices, WooCommece, and Wordpress. My interests range from Technology to Entrepreneurship. I am a technology driven person with immense interest in Software Engineering Problems and Designs.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "i.lancygoyal@gmail.com",
+    "phone": "904-104-0600",
+    "address":{
+      "street":"#802/91",
+      "city":"Mohali",
+      "state":"Punjab",
+      "zip": "160071"
+    },
+    "website": "https://lancygoyal.github.io",
+    "resumedownload":"https://lancygoyal.github.io",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"https://www.twitter.com/LancyGoyal",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/lancygoyal",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/lancygoyal",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com/lancy.goyal",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University?",
+        "degree":"Masters in Beer tasting",
+        "graduated":"April 2007",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"School #1 Maybe College?",
+        "degree":"What did you study 101",
+        "graduated":"March 2003",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"Spice Money",
+        "title":"Assistant Manager",
+        "years":"July 2018 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Igniva",
+        "title":"Lead Software Engineer",
+        "years":"Sept. 2015 - June 2018",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"React.js",
+        "level":"70%"
+      },
+      {
+        "name":"React Native",
+        "level":"75%"
+      },
+      {
+        "name":"Vue.js",
+        "level":"50%"
+      },
+      {
+        "name":"Node.js",
+        "level":"80%"
+      },
+      {
+        "name":"Meteor.js",
+        "level":"80%"
+      },
+      {
+        "name":"Hapi.js",
+        "level":"70%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
