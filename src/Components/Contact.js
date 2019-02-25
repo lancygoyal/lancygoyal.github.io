@@ -81,10 +81,10 @@ class Contact extends Component {
                      <h4>Address and Phone</h4>
                      <p className="address">
                         {name}<br />
-                        {email}<br />
+                        <a href={"mailto:" + email}>{email}</a><br />
                         {street} <br />
                         {city}, {state} {zip}<br />
-                        <span>{phone}</span>
+                        <span><a href="tel:+919041040600">{phone}</a></span>
                      </p>
                   </div>
 
