@@ -23,7 +23,7 @@ class Resume extends Component {
     }
 
     return (
-      <section id="resume">
+      <section id="education">
 
       <div className="row education">
          <div className="three columns header-col">
