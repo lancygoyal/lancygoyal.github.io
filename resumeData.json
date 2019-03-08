@@ -39,7 +39,7 @@
       },
       {
         "name": "skype",
-        "url": "http://skype.com/lancy.goyal",
+        "url": "skype:lancy.goyal",
         "className": "fa fa-skype"
       }
     ]
