@@ -1,13 +1,13 @@
 {
   "main": {
     "name": "Lancy Goyal",
-    "occupation": "FullStack Software Engineer | Consultant | Entrepreneur",
-    "description": "Software Engineer | FullStack | React | ReactNative | Redux | Node | GraphQL | MongoDB | Jest | Spring | Vue | Wordpress",
+    "occupation": "FullStack Software Engineer | Consultant | Architect",
+    "description": "React.js | React Native | Node.js | Spring Boot | Microservices | AWS | WooCommerce | Vue.js | MongoDB",
     "image": "profilepic.jpg",
     "bio": "I am a Software Engineer with experience in understanding and analyzing the software engineering problems and implementing them. Technologies that I have used to develop apps are React.js, ReactNative, Redux, GraphQL, Node.js, Hapi.js, Socket.io, Express.js, Meteor.js, Vue.js, PWA, Spring Boot, MongoDB, AWS, Microservices, WooCommece, Wordpress, and Android. My interests range from Technology to Entrepreneurship. I am a technology driven person with an immense interest in Software Engineering Problems and Designs.",
     "contactmessage": "contact me.",
     "email": "i.lancygoyal@gmail.com",
-    "phone": "+91-90410-40600",
+    "phone": "904-104-0600",
     "address": {
       "street": "#802/91",
       "city": "Chandigarh",
@@ -56,21 +56,15 @@
     ],
     "work": [
       {
-        "company": "Emirates",
-        "title": "Software Consultant",
-        "years": "Sept 2019 - Present",
-        "description": "Fullstack Software Engineer Working on Baggage Management System. Technology Frameworks Used - React.js, Redux, Jest, Spring Boot, Node.js, PL/SQL, JavaScript"
-      },
-      {
         "company": "In-House",
         "title": "Software Consultant",
-        "years": "Jan 2012 - Present",
+        "years": "July 2012 - Present",
         "description": "Fullstack Software Engineer having working experience on React.js, React Native, Redux, GraphQL, Node.js, Hapi.js, Socket.io, Express.js, Meteor.js and Vue.js, Microservices, Spring Boot, AWS, WooCommerce."
       },
       {
         "company": "Spice Money",
         "title": "Assistant Manager",
-        "years": "July 2018 - Aug 2019",
+        "years": "July 2018 - Present",
         "description": "Fullstack Software Engineer Working on Domestic Money Transfer and Railway Ticket Booking Platform, B2B Portal, Offical Website."
       },
       {
@@ -91,10 +85,6 @@
       },
       {
         "name": "React Native",
-        "level": "85%"
-      },
-      {
-        "name": "Redux",
         "level": "85%"
       },
       {
