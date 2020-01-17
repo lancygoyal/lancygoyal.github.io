@@ -21,7 +21,7 @@ class Footer extends Component {
             <ul className="social-links">{networks}</ul>
 
             <ul className="copyright">
-              <li>&copy; Copyright 2019 Lancy Goyal</li>
+              <li>&copy; Copyright 2020 Lancy Goyal</li>
               <li>
                 Design by{" "}
                 <a title="Styleshout" href="http://www.styleshout.com/">
