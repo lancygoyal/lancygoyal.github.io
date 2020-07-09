@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Lancy Goyal",
-    "occupation": "Passionate FullStack Software Engineer & Techpreneur",
+    "occupation": "Passionate FullStack Software Engineer",
     "description": "Software Engineer | FullStack | React | ReactNative | Redux | Node | GraphQL | MongoDB | Jest | Spring | Vue | Wordpress",
     "image": "profilepic.jpg",
-    "bio": "I am a Software Engineer with experience in understanding and analyzing the software engineering problems and implementing them. Technologies that I have used to develop apps are React.js, ReactNative, Redux, GraphQL, Node.js, Hapi.js, Socket.io, Express.js, Meteor.js, Vue.js, PWA, Spring Boot, MongoDB, AWS, Microservices, WooCommece, Wordpress, and Android. My interests range from Technology to Entrepreneurship. I am a technology driven person with an immense interest in Software Engineering Problems and Designs.",
+    "bio": "🔭 I have experience in understanding and analyzing the software engineering problems and implementing them. 🌱 Technologies that I have used to develop apps are Javascript, React.js, React Native, Redux, GraphQL, Node.js, Hapi.js, Socket.io, Express.js, Meteor.js, Vue.js, PWA, Spring Boot, MongoDB, Next.js, Electron, Cordova, AWS, Firebase, Microservices, Git, and WooCommece, Wordpress. 👯 My interests range from Technology to Entrepreneurship. ⚡ I am a technology driven person with an immense interest in Software Engineering Problems and Designs.",
     "contactmessage": "contact me.",
     "email": "i.lancygoyal@gmail.com",
     "phone": "+91-90410-40600",
@@ -12,6 +12,7 @@
       "street": "#802/91",
       "city": "Chandigarh",
       "state": "Punjab",
+      "country": "India",
       "zip": "160071"
     },
     "website": "https://lancygoyal.github.io",
