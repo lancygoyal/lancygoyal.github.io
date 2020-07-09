@@ -8,6 +8,7 @@ class Contact extends Component {
       var city = this.props.data.address.city;
       var state = this.props.data.address.state;
       var zip = this.props.data.address.zip;
+      var country = this.props.data.address.country;
       var phone = this.props.data.phone;
       var email = this.props.data.email;
       var message = this.props.data.contactmessage;
@@ -132,10 +133,10 @@ class Contact extends Component {
                 <a href={"mailto:" + email}>{email}</a>
                 <br />
                 {street} <br />
-                {city}, {state} {zip}
+                {city}, {state}, {country} - {zip}
                 <br />
                 <span>
-                  <a href="tel:+919041040600">{phone}</a>
+                  <a href={"tel:" + phone}>{phone}</a>
                 </span>
               </p>
             </div>
