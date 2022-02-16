@@ -8,7 +8,7 @@ class Header extends Component {
       var description = this.props.data.description;
       var city = this.props.data.address.city;
       var country = this.props.data.address.country;
-      var networks = this.props.data.social.map(function(network) {
+      var networks = this.props.data.social.map(function (network) {
         return (
           <li key={network.name}>
             <a href={network.url} target="_blank">
@@ -71,9 +71,9 @@ class Header extends Component {
           <div className="banner-text">
             <h1 className="responsive-headline">I'm {name}.</h1>
             <h3>
-              I'm a {city}, {country}, based <span>{occupation}</span>.
-              <br/>
-              {description}
+              I'm <span>{country}</span> based <span>{occupation}</span>.
+              <br />
+              <span>{description}</span>
             </h3>
             <hr />
             <ul className="social">{networks}</ul>
