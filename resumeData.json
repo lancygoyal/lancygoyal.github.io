@@ -1,22 +1,22 @@
 {
   "main": {
     "name": "Lancy Goyal",
-    "occupation": "Passionate FullStack Software Engineer",
-    "description": "Software Engineer | FullStack | React | ReactNative | Redux | Node | GraphQL | MongoDB | Jest | Spring | Vue | Wordpress",
+    "occupation": "Lead Software Engineer",
+    "description": "Node.js | React.js | React Native | Vue | AWS",
     "image": "profilepic.jpg",
-    "bio": "🔭 I have experience in understanding and analyzing the software engineering problems and implementing them. 🌱 Technologies that I have used to develop apps are Javascript, React.js, React Native, Redux, GraphQL, Node.js, Hapi.js, Socket.io, Express.js, Meteor.js, Vue.js, PWA, Spring Boot, MongoDB, Next.js, Electron, Cordova, AWS, Firebase, Microservices, Git, and WooCommece, Wordpress. 👯 My interests range from Technology to Entrepreneurship. ⚡ I am a technology driven person with an immense interest in Software Engineering Problems and Designs.",
-    "contactmessage": "contact me.",
+    "bio": "I am a Software Engineer with one decade of experience in understanding and analyzing software engineering problems and implementing them. Technologies that I have used to develop the apps are Javascript, Node.js, React.js, React Native, Redux, Vue.js, Express.js, Socket.io, Hapi.js, GraphQL, Meteor.js, MongoDB, SQL, Next.js, Serverless, Firebase, Docker, Git and AWS. I am a technology-driven person with an immense interest in Software Engineering Problems and Designs.",
+    "contactmessage": "hire me.",
     "email": "i.lancygoyal@gmail.com",
     "phone": "+91-90410-40600",
     "address": {
-      "street": "#802/91",
+      "street": "#190/94",
       "city": "Chandigarh",
       "state": "Punjab",
       "country": "India",
       "zip": "160071"
     },
     "website": "https://lancygoyal.github.io",
-    "resumedownload": "https://drive.google.com/file/d/1nWPVTyQBwaQYV5PS1Xbk5TAtOaouqInf/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/open?id=1DzbdrYH-Hjli1CsgQkiIWc-7zJDAX8KX&authuser=i.lancygoyal%40gmail.com&usp=drive_fs",
     "social": [
       {
         "name": "email",
@@ -46,109 +46,94 @@
     ]
   },
   "resume": {
-    "skillmessage": "Fullstack Software Engineer",
+    "skillmessage": "Lead Software Engineer",
     "education": [
       {
         "school": "Punjab Technical University",
-        "degree": "Bachelor of Technology",
+        "degree": "B.Tech. (IT)",
         "graduated": "June 2012",
         "description": "Completed B.Tech. in Information Technology with First Division."
       }
     ],
     "work": [
       {
-        "company": "Software Development",
-        "title": "Software Consultant",
-        "years": "Jan 2012 - Present",
-        "description": "Fullstack Software Engineer having working experience on React.js, React Native, Redux, GraphQL, Node.js, Hapi.js, Socket.io, Express.js, Meteor.js and Vue.js, Microservices, Spring Boot, AWS, WooCommerce."
+        "company": "Supertal",
+        "title": "Lead Software Engineer",
+        "description": "- Leading product engineering teams and giving them technical solutions.<br>- Managing the team of 8-10 members from India and Indonesia."
+      },
+      {
+        "company": "Momos",
+        "title": "Lead Software Engineer",
+        "description": "- Build the entire tech from scratch and it raised $6.5M in funding from Sequoia India, FALCON EDGE CAPITAL, LP.<br>- Managed the team of 6-8 engineers from India, Bangladesh and Vietnam."
       },
       {
         "company": "Emirates",
         "title": "Software Consultant",
-        "years": "Sept 2019 - Present",
-        "description": "Fullstack Software Engineer Working on Baggage Management System. Technology Frameworks Used - React.js, Redux, Jest, Spring Boot, Node.js, PL/SQL, JavaScript"
+        "description": "Worked on Bag Tracking Application which is used internally in emirates and dnata."
       },
       {
         "company": "Spice Money",
-        "title": "Assistant Manager",
-        "years": "July 2018 - Aug 2019",
-        "description": "Fullstack Software Engineer Working on Domestic Money Transfer and Railway Ticket Booking Platform, B2B Portal, Offical Website."
+        "title": "Full Stack Engineer",
+        "description": "Worked on Domestic Money Transfer and Loan Service web application."
       },
       {
         "company": "Igniva",
         "title": "Lead Software Engineer",
-        "years": "Sept 2015 - Jun 2018",
-        "description": "Software Engineer having working experience on React.js, React Native, Redux, GraphQL, Node.js, Hapi.js, Socket.io, Express.js, Meteor.js and MongoDB."
+        "description": "Worked on various applications related to Social Networking, EdTech, Event Management, and Job Portal."
       }
     ],
     "skills": [
       {
-        "name": "Javascript",
+        "name": "Node.js",
         "level": "90%"
       },
       {
         "name": "React.js",
-        "level": "85%"
-      },
-      {
-        "name": "React Native",
-        "level": "85%"
-      },
-      {
-        "name": "Redux",
-        "level": "85%"
-      },
-      {
-        "name": "Vue.js",
-        "level": "70%"
-      },
-      {
-        "name": "Node.js",
-        "level": "85%"
-      },
-      {
-        "name": "Meteor.js",
-        "level": "90%"
-      },
-      {
-        "name": "Hapi.js",
         "level": "75%"
       },
       {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "React Native",
+        "level": "50%"
       },
       {
-        "name": "Spring Boot",
-        "level": "60%"
+        "name": "Redux",
+        "level": "75%"
+      },
+      {
+        "name": "Vue.js",
+        "level": "50%"
+      },
+      {
+        "name": "AWS",
+        "level": "30%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "TopperQ",
-        "category": "TopperQ are a simple and easy to use platform for teachers and students.",
-        "image": "topperq.png",
-        "url": "https://www.topperq.com/"
+        "title": "Momos",
+        "category": "FnB SaaS",
+        "image": "momos.png",
+        "url": "https://www.momos.io/"
       },
       {
         "title": "Spice Money",
-        "category": "Spice Money Official Website",
+        "category": "Fintech SaaS",
         "image": "spice.png",
         "url": "https://www.spicemoney.com/"
       },
       {
-        "title": "Pwayz",
-        "category": "Car Parking Application",
-        "image": "pwayz.png",
-        "url": "https://www.pwayz.co.uk/"
+        "title": "Emirates",
+        "category": "Flights Bag Management",
+        "image": "emirates.png",
+        "url": "https://www.emirates.com/"
       },
       {
-        "title": "Todo App",
-        "category": "Simple Todo App using Vue and Firebase",
-        "image": "todo.png",
-        "url": "https://lancygoyal.github.io/Todo-Vue"
+        "title": "Moladin",
+        "category": "Cars Refinance",
+        "image": "moladin.png",
+        "url": "https://moladin.com/"
       }
     ]
   },
